@@ -127,37 +127,28 @@
   This project focuses on building an IoT-based system to monitor air quality in real time. It utilizes various sensors to collect data on pollutants such as PM2.5, PM10, SO₂, NO₂, and CO, transmitting this information via MQTT to an IoT Core service.
 </p>
 <p>
-  <img src="URL_DE_TU_IMAGEN_1" alt="Project Image 1" width="500"/>
-  <img src="URL_DE_TU_IMAGEN_2" alt="Project Image 2" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/PRY20241050 - Cableado de sensores v.1.1.jpg" alt="Project Image 1" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/PRY20241050 - Prueba de funcionamiento de pantalla I2C v.2.0.jpg" alt="Project Image 2" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/PRY20241050 - Acoplamiento de encapsulado v.2.0.jpg" alt="Project Image 3" width="500"/>
+</p>
+<h3> Dashboard Application </h3>
+<p>
+  This project is a web dashboard developed using React for the frontend and Django for the backend. It provides data visualization, allowing users to analyze different metrics efficiently.
 </p>
 <p>
-  <img src="URL_DE_TU_IMAGEN_3" alt="Project Image 3" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/mando.png" alt="1" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/resumen.png" alt="2" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/performance.png" alt="3" width="500"/>
+
 </p>
 
-<h2> Github Stats (Expand to View) <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h2>
-
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aastha's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aastha12&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aastha12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="aastha12" height="192px"/>
-  <br/>
-  </p>
-</details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/aastha12"><img alt="Aastha's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aastha12&custom_title=Aastha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
-<br/>
-
-----------------------------------------------------------------------
+<h3> Data Load and Analysis with Analysis Services </h3>
+<p>
+  This project involves loading and analyzing data using Microsoft Analysis Services. It focuses on data warehousing, ETL processes, and providing analytical insights through various reporting tools.
+</p>
+<p>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/cubo.png" alt="1" width="500"/>
+  <img src="https://github.com/RoggerGB/RoggerBM/blob/main/Staging.png" alt="2" width="500"/>
+</p>
+---------------------------------------------------------------------- <br> </br>
 Last Edited on: 30/09/2024
